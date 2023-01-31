@@ -1,1 +1,3 @@
-// this is customer file
+class Customer{
+    
+}
